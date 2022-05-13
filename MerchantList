@@ -1,0 +1,14 @@
+[
+    {
+        "name":"Target",
+        "urlToImage": "https://corporate.target.com/_media/TargetCorp/Press/B-roll%20and%20Press%20Materials/Logos/Target_Bullseye-Logo_Red.jpg?preset=640w"
+    },
+    {
+        "name":"Walmart",
+        "urlToImage": "https://s3.amazonaws.com/www-inside-design/uploads/2018/04/walmart-square.jpg"
+    },
+    {
+        "name":"Applebees",
+        "urlToImage": "https://www.tupelo.net/wp-content/uploads/2017/08/Applebee-s-Logo0-840x840.jpg"
+    }
+]
