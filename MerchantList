@@ -16,5 +16,12 @@
         "cardColor": "AC172B",
         "textColor": "FFFFFF",
         "urlToImage": "https://www.tupelo.net/wp-content/uploads/2017/08/Applebee-s-Logo0-840x840.jpg"
+    },
+    {
+        "name":"Lowe's",
+        "cardColor": "29478B",
+        "textColor": "FFFFFF",
+        "urlToImage": "https://board-production.s3.amazonaws.com/logos/633/medium_lowes_logo.jpg"
     }
+
 ]
