@@ -18,6 +18,18 @@
         "urlToImage": "https://corporate.target.com/_media/TargetCorp/Press/B-roll%20and%20Press%20Materials/Logos/Target_Bullseye-Logo_Red.jpg?preset=640w"
     },
     {
+        "name":"Wawa",
+        "cardColor": "EC2D24",
+        "textColor": "FFFFFF",
+        "urlToImage": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/6328/brand.gif?itok=iLcrKUEl"
+    },
+    {
+        "name":"Old Navy",
+        "cardColor": "003C69",
+        "textColor": "FFFFFF",
+        "urlToImage": "https://deltafonts.com/wp-content/uploads/Old-Navy.png"
+    },
+    {
         "name":"Walmart",
         "cardColor": "0070DC",
         "textColor": "FFC21F",
