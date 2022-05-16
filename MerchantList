@@ -6,6 +6,12 @@
         "urlToImage": "https://assets.macerichepicenter.com/FileManager/_shared/Retailers/Logos/Chilis_Logo.jpg"
     },
     {
+        "name":"Dunkin' Donuts ",
+        "cardColor": "EC4697",
+        "textColor": "FFFFFF",
+        "urlToImage": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072016/untitled-1_42.png?itok=GvbeN5eT"
+    },
+    {
         "name":"Target",
         "cardColor": "CC0001",
         "textColor": "FFFFFF",
