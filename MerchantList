@@ -1,4 +1,10 @@
 [
+   {
+        "name":"Chili's",
+        "cardColor": "DC4335",
+        "textColor": "659541",
+        "urlToImage": "https://assets.macerichepicenter.com/FileManager/_shared/Retailers/Logos/Chilis_Logo.jpg"
+    },
     {
         "name":"Target",
         "cardColor": "CC0001",
