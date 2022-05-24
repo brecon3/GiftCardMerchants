@@ -3,7 +3,7 @@
         "name":"Chili's",
         "cardColor": "659541",
         "textColor": "FFFFFF",
-        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Chilis.png"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Chilis@3X.png"
     },
     {
         "name":"Dunkin' Donuts ",
@@ -15,25 +15,25 @@
         "name":"Target",
         "cardColor": "CC0001",
         "textColor": "FFFFFF",
-        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Target.png"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Target@3X.png"
     },
     {
         "name":"Wawa",
         "cardColor": "EC2D24",
         "textColor": "FFFFFF",
-        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Wawa.png"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Wawa@3X.png"
     },
     {
         "name":"Old Navy",
         "cardColor": "003C69",
         "textColor": "FFFFFF",
-        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/OldNavy.png"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/OldNavy@3X.png"
     },
     {
         "name":"Walmart",
         "cardColor": "0070DC",
         "textColor": "FFC21F",
-        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Walmart.png"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Walmart@3X.png"
     },
     {
         "name":"Applebees",
@@ -45,13 +45,13 @@
         "name":"Lowe's",
         "cardColor": "29478B",
         "textColor": "FFFFFF",
-        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Lowes.png"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Lowes@3X.png"
     },
     {
         "name":"McDonald's",
         "cardColor": "DA291C",
         "textColor": "FFC72C",
-        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/McDonalds.png"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/McDonalds@3X.png"
     }
 
 ]
