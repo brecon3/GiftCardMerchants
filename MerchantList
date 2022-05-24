@@ -3,49 +3,55 @@
         "name":"Chili's",
         "cardColor": "659541",
         "textColor": "FFFFFF",
-        "urlToImage": "https://assets.macerichepicenter.com/FileManager/_shared/Retailers/Logos/Chilis_Logo.jpg"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Chilis.png"
     },
     {
         "name":"Dunkin' Donuts ",
         "cardColor": "EC4697",
         "textColor": "FFFFFF",
-        "urlToImage": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072016/untitled-1_42.png?itok=GvbeN5eT"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Dunkin.png"
     },
     {
         "name":"Target",
         "cardColor": "CC0001",
         "textColor": "FFFFFF",
-        "urlToImage": "https://corporate.target.com/_media/TargetCorp/Press/B-roll%20and%20Press%20Materials/Logos/Target_Bullseye-Logo_Red.jpg?preset=640w"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Target.png"
     },
     {
         "name":"Wawa",
         "cardColor": "EC2D24",
         "textColor": "FFFFFF",
-        "urlToImage": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/6328/brand.gif?itok=iLcrKUEl"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Wawa.png"
     },
     {
         "name":"Old Navy",
         "cardColor": "003C69",
         "textColor": "FFFFFF",
-        "urlToImage": "https://deltafonts.com/wp-content/uploads/Old-Navy.png"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/OldNavy.png"
     },
     {
         "name":"Walmart",
         "cardColor": "0070DC",
         "textColor": "FFC21F",
-        "urlToImage": "https://s3.amazonaws.com/www-inside-design/uploads/2018/04/walmart-square.jpg"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Walmart.png"
     },
     {
         "name":"Applebees",
         "cardColor": "AC172B",
         "textColor": "FFFFFF",
-        "urlToImage": "https://www.tupelo.net/wp-content/uploads/2017/08/Applebee-s-Logo0-840x840.jpg"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Applebees.png"
     },
     {
         "name":"Lowe's",
         "cardColor": "29478B",
         "textColor": "FFFFFF",
-        "urlToImage": "https://board-production.s3.amazonaws.com/logos/633/medium_lowes_logo.jpg"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Lowes.png"
+    },
+    {
+        "name":"McDonald's",
+        "cardColor": "DA291C",
+        "textColor": "FFC72C",
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/McDonalds.png"
     }
 
 ]
