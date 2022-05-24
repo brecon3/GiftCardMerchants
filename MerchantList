@@ -9,7 +9,7 @@
         "name":"Dunkin' Donuts ",
         "cardColor": "EC4697",
         "textColor": "FFFFFF",
-        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Dunkin.png"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Dunkin@3X.png"
     },
     {
         "name":"Target",
@@ -39,7 +39,7 @@
         "name":"Applebees",
         "cardColor": "AC172B",
         "textColor": "FFFFFF",
-        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Applebees.png"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Applebees@3X.png"
     },
     {
         "name":"Lowe's",
