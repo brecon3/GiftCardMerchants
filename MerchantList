@@ -52,6 +52,12 @@
         "cardColor": "DA291C",
         "textColor": "FFFFFF",
         "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/McDonalds@3X.png"
+    },
+    {
+        "name":"Delta",
+        "cardColor": "003d79",
+        "textColor": "e31837",
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Delta@3X.png"
     }
 
 ]
