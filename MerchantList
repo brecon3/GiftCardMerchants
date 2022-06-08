@@ -6,6 +6,12 @@
         "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Chilis@3X.png"
     },
     {
+        "name":"Disney",
+        "cardColor": "00144F",
+        "textColor": "FFFFFF",
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Disney.png"
+    },
+    {
         "name":"Dunkin' Donuts ",
         "cardColor": "EC4697",
         "textColor": "FFFFFF",
