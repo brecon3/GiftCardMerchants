@@ -3,13 +3,15 @@
         "name":"Chili's",
         "cardColor": "659541",
         "textColor": "FFFFFF",
-        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Chilis@3X.png"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Chilis@3X.png",
+        "barcodeType": "1"
     },
     {
         "name":"Disney",
         "cardColor": "00144F",
         "textColor": "FFFFFF",
-        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Disney.png"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Disney.png",
+        "barcodeType": "2"
     },
     {
         "name":"Dunkin' Donuts ",
@@ -21,7 +23,8 @@
         "name":"Target",
         "cardColor": "CC0001",
         "textColor": "FFFFFF",
-        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Target@3X.png"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Target@3X.png",
+        "barcodeType": "2"
     },
     {
         "name":"Wawa",
@@ -45,7 +48,7 @@
         "name":"Applebees",
         "cardColor": "AC172B",
         "textColor": "FFFFFF",
-        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Applebees@3X.png"
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Applebees@3X.png",
         "barcodeType": "1"
     },
     {
