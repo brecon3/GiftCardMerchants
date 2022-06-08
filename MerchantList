@@ -46,6 +46,7 @@
         "cardColor": "AC172B",
         "textColor": "FFFFFF",
         "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Applebees@3X.png"
+        "barcodeType": "1"
     },
     {
         "name":"Lowe's",
