@@ -7,6 +7,13 @@
         "barcodeType": "1"
     },
     {
+        "name":"Petco",
+        "cardColor": "FFFFFF",
+        "textColor": "E9292C",
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Petco.png",
+        "barcodeType": "0"
+    },
+    {
         "name":"Disney",
         "cardColor": "00144F",
         "textColor": "FFFFFF",
