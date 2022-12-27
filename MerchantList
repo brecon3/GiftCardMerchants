@@ -75,6 +75,20 @@
         "cardColor": "003d79",
         "textColor": "e31837",
         "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/Delta@3X.png"
+    },
+    {
+        "name":"Phoenix Shaving",
+        "cardColor": "F50506",
+        "textColor": "FFFFFF",
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/PAA@3X.png",
+        "barcodeType": "1"
+    },
+    {
+        "name":"The Razor Company",
+        "cardColor": "041483",
+        "textColor": "FFFFFF",
+        "urlToImage": "https://f004.backblazeb2.com/file/merchantLogos/TRC@3X.png",
+        "barcodeType": "1"
     }
 
 ]
